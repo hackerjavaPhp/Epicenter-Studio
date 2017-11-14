@@ -1,0 +1,145 @@
+/*Options Style*/
+
+*        
+{padding:0;
+ margin:0;
+
+}
+
+body{
+    font-family:Arial;
+}
+
+
+.container{
+
+width:1024px;
+
+}
+
+.bigContainer {
+
+    width:1800px;
+  
+}
+
+.bigContainer, .container{
+
+    margin:0 auto;
+}
+
+.clear{
+
+    clear:both;
+}
+
+ /*Start File*/
+.bgHeader{
+    background-color:#00668b;
+}
+.logo
+{font-size:25px;
+
+
+ float:left;
+}
+
+.menulist{
+    float:right;
+     
+}
+
+.menulist-li{
+    
+    display:inline-block;
+
+    margin-left:20px;
+
+
+}
+
+.menulist-li:first-child{
+
+    margin-left:0;
+}
+.sliderHeader{
+
+    background-color:#ff0033;
+
+    padding-bottom:70px;
+}
+
+.sliderHeaderH1{
+
+    padding-top:104px;
+
+     font-size:32.5px;
+}
+
+.sliderHeaderH1, .sliderHeaderP1
+{
+    text-align:center;
+
+}
+
+.sliderHeaderP1{
+
+    padding-top:23px;
+    
+    font-size:18px;
+}
+
+.sliderHeaderButton {
+    display: block;
+
+    width: 220px;
+
+    height: 50px;
+
+    background-color: #e84c3d;
+
+    border: none;
+
+    font-size: 14px;
+
+    text-transform: uppercase;
+
+    color: white;
+
+    margin: 0 auto;
+
+    margin-top: 49px;
+}
+
+.sliderPortfolio {
+
+    
+
+    background-color:#bdc8d7;
+
+}
+.sliderPortfolioShowPhoto{
+
+    height:200px;
+
+    background:green;
+
+    width:357px;
+
+    float:left
+
+        
+}
+
+.scroll{
+
+    width:3000px;
+
+}
+
+.sliderPortfolio .co {
+
+    overflow:hidden;
+
+}
+
